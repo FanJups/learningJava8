@@ -20,3 +20,9 @@ https://stackoverflow.com/questions/30122439/converting-array-to-list
 https://www.google.com/search?q=can+not+convert+from+collector+to+supplier&oq=can+not+convert+from+collector+to+supplier&aqs=chrome..69i57j69i64.28536j1j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/46418821/java-stream-collect-function-giving-error
+
+## parallel sort java
+
+https://www.google.com/search?q=parallel+sort+java&oq=parallelSort+&aqs=chrome.1.69i57j0l5.30019j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.geeksforgeeks.org/serial-sort-vs-parallel-sort-java/
