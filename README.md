@@ -26,3 +26,9 @@ https://stackoverflow.com/questions/46418821/java-stream-collect-function-giving
 https://www.google.com/search?q=parallel+sort+java&oq=parallelSort+&aqs=chrome.1.69i57j0l5.30019j1j7&sourceid=chrome&ie=UTF-8
 
 https://www.geeksforgeeks.org/serial-sort-vs-parallel-sort-java/
+
+## format %-8s java
+
+https://www.google.com/search?q=format+%25-8s+java&oq=format+%25-8s+java&aqs=chrome..69i57j0l5.58102j0j7&sourceid=chrome&ie=UTF-8
+
+https://dzone.com/articles/java-string-format-examples
