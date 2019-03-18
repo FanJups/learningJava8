@@ -1,0 +1,29 @@
+The program includes line numbers. We’ve added these for instructional purposes—
+they’re not part of a Java program. This example illustrates several important Java features.
+We’ll see that line 9 does the work—displaying the phrase Welcome to Java Programming!
+on the screen.
+Commenting Your Programs
+We insert comments to document programs and improve their readability. The Java compiler
+ignores comments, so they do not cause the computer to perform any action when the
+program is run.
+By convention, we begin every program with a comment indicating the figure number
+and filename. The comment in line 1
+begins with //, indicating that it’s an end-of-line comment—it terminates at the end of
+the line on which the // appears. An end-of-line comment need not begin a line; it also
+can begin in the middle of a line and continue until the end (as in lines 6, 10 and 11). Line
+2
+by our convention, is a comment that describes the purpose of the program.
+Java also has traditional comments, which can be spread over several lines as in
+These begin and end with delimiters, /* and */. The compiler ignores all text between the
+delimiters. Java incorporated traditional comments and end-of-line comments from the C
+and C++ programming languages, respectively. We prefer using // comments.
+Java provides comments of a third type—Javadoc comments. These are delimited by
+/** and */. The compiler ignores all text between the delimiters. Javadoc comments
+enable you to embed program documentation directly in your programs. Such comments
+are the preferred Java documenting format in industry. The javadoc utility program (part
+of the JDK) reads Javadoc comments and uses them to prepare program documentation
+in HTML format. We demonstrate Javadoc comments and the javadoc utility in online
+Appendix G, Creating Documentation with javadoc.
+Welcome to Java Programming!
+// Fig. 2.1: Welcome1.java
+// Text-printing program.
