@@ -44,3 +44,11 @@ https://dzone.com/articles/java-string-format-examples
 https://www.google.com/search?q=compareTo+java&oq=compareTo+java&aqs=chrome..69i57j0l5.30499j0j7&sourceid=chrome&ie=UTF-8
 
 https://www.tutorialspoint.com/java/java_string_compareto.htm
+
+## forEachOrdered java
+
+https://www.google.com/search?q=forEachOrdered+java&oq=forEachOrdered+java&aqs=chrome..69i57j0l3.11398j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/32797579/foreach-vs-foreachordered-in-java-8-stream
+
+https://www.geeksforgeeks.org/stream-foreachordered-method-java-examples/
