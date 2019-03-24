@@ -38,3 +38,9 @@ https://www.geeksforgeeks.org/serial-sort-vs-parallel-sort-java/
 https://www.google.com/search?q=format+%25-8s+java&oq=format+%25-8s+java&aqs=chrome..69i57j0l5.58102j0j7&sourceid=chrome&ie=UTF-8
 
 https://dzone.com/articles/java-string-format-examples
+
+## compareTo java
+
+https://www.google.com/search?q=compareTo+java&oq=compareTo+java&aqs=chrome..69i57j0l5.30499j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.tutorialspoint.com/java/java_string_compareto.htm
