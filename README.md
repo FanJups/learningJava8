@@ -1,6 +1,8 @@
 # learningJava8
 I am learning great features of JAVA 8 ---->  https://www.tutorialspoint.com/java8/index.htm 
 
+https://www.mkyong.com/tutorials/java-8-tutorials/
+
 ## java 8 projects example
 
 https://www.google.com/search?ei=kkGWXKRDwZmMuw--woXIAQ&q=java+8+projects+example&oq=java+8+projects+example&gs_l=psy-ab.3..0i22i30.1641383.1652477..1654000...1.0..4.363.4431.10j18j1j3......0....1..gws-wiz.....6..0i71j0i324j0j35i39j0i203j0i67j0i131i67j0i13j33i22i29i30.rmtSVFTSfyM
